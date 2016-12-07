@@ -1,1 +1,2 @@
-# autorisierungaufkuendigungdienst
+# autorisierungaufkuendigungdienst:
+Authorization Revocation Service
